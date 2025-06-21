@@ -1,6 +1,12 @@
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzdwbjM0YXprbDFrcXdpMnM0c3Zra29vaXgyNjJ4d3czMWF5eHBmNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/rGBU5naTzP2Wk/giphy.gif" width="200" alt="Software Admin GIF" />
+</p>
+
+
+
 <h1 align="center">Hi 👋, I'm Mark Añasco</h1>
 <h3 align="center">Web Designer & Developer | ERPNext Software Admin</h3>
-
 
 
 
