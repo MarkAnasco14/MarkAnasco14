@@ -40,7 +40,7 @@
 
 ### 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=markanasco&show_icons=true&theme=radical" alt="markanasco" />
+  <img src="https://github-readme-stats.vercel.app/api?username=markanasco&show_icons=true&theme=radical" alt="MarkAnasco14" />
 </p>
 
 ---
