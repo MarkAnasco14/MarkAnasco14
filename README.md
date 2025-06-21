@@ -2,7 +2,7 @@
 <h3 align="center">Web Designer & Developer | ERPNext Software Admin</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=true&width=600&lines=Passionate+about+UI%2FUX+and+Web+Development;ERPNext+Customization+%7C+Front-end+Engineer;Always+Learning+%F0%9F%92%AA%F0%9F%8F%BC+Innovating+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=true&width=600&lines=CALL ME%F0%9F%92%AA%F0%9F%8F%BC+Innovating+%F0%9F%94%A5" alt="Typing SVG" />
 </p>
 
 
