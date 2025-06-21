@@ -1,8 +1,7 @@
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzdwbjM0YXprbDFrcXdpMnM0c3Zra29vaXgyNjJ4d3czMWF5eHBmNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/rGBU5naTzP2Wk/giphy.gif" width="200" alt="Software Admin GIF" />
+  <img src="https://www.freepik.com/premium-ai-image/person-coding-computer-colorful-plantfilled-workspace_380580594.htm#fromView=keyword&page=1&position=8&uuid=5945a506-405c-4b42-97a7-fe203558ca36&query=Coding+Gif" width="200" alt="ERPNext Admin GIF" />
 </p>
-
 
 
 <h1 align="center">Hi 👋, I'm Mark Añasco</h1>
