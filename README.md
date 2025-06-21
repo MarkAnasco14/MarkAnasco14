@@ -1,7 +1,4 @@
 
-<p align="center">
-  <img src="https://www.freepik.com/premium-ai-image/person-coding-computer-colorful-plantfilled-workspace_380580594.htm#fromView=keyword&page=1&position=8&uuid=5945a506-405c-4b42-97a7-fe203558ca36&query=Coding+Gif" width="200" alt="ERPNext Admin GIF" />
-</p>
 
 
 <h1 align="center">Hi 👋, I'm Mark Añasco</h1>
