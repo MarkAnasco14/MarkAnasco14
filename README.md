@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Mark Añasco</h1>
-<h3 align="center">Web Designer & Developer | ERPNext Software Admin</h3>
+<h3 align="center">IT Support</h3>
 
 
 
