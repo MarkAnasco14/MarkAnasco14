@@ -1,53 +1,25 @@
-
-
-
 <h1 align="center">Hi 👋, I'm Mark Añasco</h1>
-<h3 align="center">IT Support ERPNext</h3>
+<h3 align="center">Frontend Developer | ERP Implementation </h3>
 
-
+<p align="center">Building beautiful and responsive user interfaces with modern technologies</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=markanasco&label=Profile%20views&color=0e75b6&style=flat" alt="markanasco" />
 </p>
 
----
 
-### 💼 About Me
-- 🔭 I’m currently working as a **Web Designer** and **ERPNext Software Admin**
-- 🌱 I’m learning **React.js**, **Astro**, and advanced **ERPNext customization**
-- 💬 Ask me about **frontend design** or **ERPNext workflows**
-- 📫 Reach me at: **markanasco55@gmail.com**
-- ⚡ Fun Fact: I enjoy night strolls, basketball, volleyball and playing instruments 🎸
 
----
-
-### 🎨 Web Designer Skills
+### 🚀 Currently Working With
 <p>
-  • HTML5, CSS3, JavaScript<br>
-  • Angular, Astro, Bootstrap, Tailwind CSS<br>
-  • Responsive & Mobile-First Design<br>
-  • UI/UX with Figma & Adobe XD<br>
-  • Git, GitHub, VS Code, WordPress, Netlify<br>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Astro-FF5D01?style=flat&logo=astro&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
 </p>
 
 ---
 
-### 🛠 ERPNext Software Admin Skills
-<p>
-  • Sales, Purchase, Stock, Accounting Modules<br>
-  • Item Management & Serial No. Tracking<br>
-  • User Roles & Permissions Setup<br>
-  • Custom Fields, Workflows, Print Formats<br>
-  • Report Builder, Data Import/Export (CSV, Excel)<br>
-</p>
-
----
-
-
-
----
-
-### 🔗 Connect with Me
+### � Connect with Me
 <p align="left">
   <a href="https://www.linkedin.com/in/markanasco/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" />
@@ -55,7 +27,7 @@
   <a href="mailto:markanasco55@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://markdessss.netlify.app" target="_blank">
+  <a href="https://markydevs.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=netlify&logoColor=white" />
   </a>
 </p>
