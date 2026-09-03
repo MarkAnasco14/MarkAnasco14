@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mark Añasco</h1>
 <h3 align="center"> ERP Specialist | Frontend Developer </h3>
 
-<p align="center">Building beautiful and responsive user interfaces with modern technologies</p>
+<p align="center">Building interfaces with modern technologies</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=markanasco&label=Profile%20views&color=0e75b6&style=flat" alt="markanasco" />
