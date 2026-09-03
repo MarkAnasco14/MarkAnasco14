@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mark Añasco</h1>
-<h3 align="center">Frontend Developer | ERP Implementation </h3>
+<h3 align="center"> ERP Specialist | Frontend Developer </h3>
 
 <p align="center">Building beautiful and responsive user interfaces with modern technologies</p>
 
